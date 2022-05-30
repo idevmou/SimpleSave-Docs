@@ -62,17 +62,17 @@ toggle button named as `Developer mode` and you need to enable it.
 
 * Click on `Add Note` button to create default note.
 ![default](./img5.png)
-* You can able to `edit` and `save` just by **one click** it once
+* You can able to `edit` and `save` just by **one click** it once.
 ![editsave](./img6.png)
-* **Double click** to `delete`
+* **Double click** to `delete`.<br>
 ![delete](./img7.png)
 
 ## Supported Browsers
 
 | Browsers | Support |
 | -------- | ------- |
-| Google Chrome | Yes |
-| Microsoft Edge | Yes |
-| FireFox | Yes |
-| Opera | Yes |
-| Safari | NA |
+| ![Google Chrome](./chrome.png) | Yes |
+| ![Microsoft Edge](./edge.png) | Yes |
+| ![FireFox](./firefox.png) | Yes |
+| ![Opera](./opera.png) | Yes |
+| ![Safari](./safari.png) | NA |
