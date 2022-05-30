@@ -36,13 +36,13 @@ chrome://settings/
 ```
 
 **Step 2** Click on *Extensions*
-![SettingsImage](./images/img1.png)
+![SettingsImage](./img1.png)
 
 > You can directly navigate to extensions by pasting this `chrome://extensions/` in search bar of browser.</br>
 
 **Step 3 :** Now you can see the extension you had already installed in browser. At top-right you can see a
 toggle button named as `Developer mode` and you need to enable it.
-![devimg](./images/img2.png)
+![devimg](./img2.png)
 
 **Step 4 :** After enable the `Developer mode` you can see the three buttons named as ```Load upacked```, ```Pack extension``` and ```update```.
 
@@ -51,28 +51,28 @@ toggle button named as `Developer mode` and you need to enable it.
 **Step 5 :** Now, You need to clone the extension repository [Link](https://github.com/idevmou/SimpleSave.git).
 
 > **Optional :** You can also download as `.zip` file and extract it.
-![Extract](./images/img3.png)
+![Extract](./img3.png)
 
 **Step 6 :** After cloning or extracting go to **Step 4** then click on `Load upacked` and locate the cloned or extracted folder of ```SimpleSave``` and click the option `Select folder` in file explorer window.
 
 ## Finally, You had successfully installed `SimpleSave` extension in your browser
-![finalimg](./images/img4.png)
+![finalimg](./img4.png)
 
 ## Guides for use
 
 * Click on `Add Note` button to create default note.
-![default](./images/img5.png)
+![default](./img5.png)
 * You can able to `edit` and `save` just by **one click** it once
-![editsave](./images/img6.png)
+![editsave](./img6.png)
 * **Double click** to `delete`
-![delete](./images/img7.png)
+![delete](./img7.png)
 
 ## Supported Browsers
 
 | Browsers | Support |
 | -------- | ------- |
-| ![Chrome](./images/chrome.png) | Yes |
-| ![Edge](./images/edge.png) | Yes |
-| ![Firefox](./images/firefox.png) | Yes |
-| ![Opera](./images/opera.png) | Yes |
-| ![safari](./images/safari.png) | NA |
+| ![Chrome](./chrome.png) | Yes |
+| ![Edge](./edge.png) | Yes |
+| ![Firefox](./firefox.png) | Yes |
+| ![Opera](./opera.png) | Yes |
+| ![safari](./safari.png) | NA |
