@@ -1,37 +1,78 @@
-## Welcome to GitHub Pages
+# SimpleSave - Browser Extension
 
-You can use the [editor on GitHub](https://github.com/idevmou/SimpleSave-Docs/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+### **SimpleSave** is a browser extension which helpfull in note taking instantly in web browser.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Why it is developed?
 
-### Markdown
+* Considering students and business professionals this tool was developed. As a student/business professionals daily they need to learn something new and for future reference they need to take note of it.
+* For that situation, they need to create a word document or any other which is outside of web browsers. To make them more productive this `SimpleSave` web extension was developed.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Tools and Language used?
 
-```markdown
-Syntax highlighted code block
+* Text Editor - ```VScode```.
+* Languages - ```HTML```, ```CSS``` and ```JavaScript```.
+* Others - Google Fonts, Bootstrap and PS.
 
-# Header 1
-## Header 2
-### Header 3
+## Features
 
-- Bulleted
-- List
+| Features | Avalability |
+| -------- | ----------- |
+| User friendly | Yes |
+| Proctoring | No |
+| Cloud Storage | No |
+| Tracking | No |
+| Single click to add note | Yes |
+| Single click to save note | Yes |
+| Single click to edit note | Yes |
+| Easy Access | Yes |
+| Supported Platform | NA |
 
-1. Numbered
-2. List
+## How to use?
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+**Step 1 :** Open your favorite browser and go to *Settings*
+> **Note :** You need to ensure that browser can support extensions and I use Chrome browser for demostration.
+```
+chrome://settings/
 ```
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+**Step 2** Click on *Extensions*
+![SettingsImage](./images/img1.png)
 
-### Jekyll Themes
+> You can directly navigate to extensions by pasting this `chrome://extensions/` in search bar of browser.</br>
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/idevmou/SimpleSave-Docs/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+**Step 3 :** Now you can see the extension you had already installed in browser. At top-right you can see a
+toggle button named as `Developer mode` and you need to enable it.
+![devimg](./images/img2.png)
 
-### Support or Contact
+**Step 4 :** After enable the `Developer mode` you can see the three buttons named as ```Load upacked```, ```Pack extension``` and ```update```.
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+> **Note :** You can also see it on above image.</br>
+
+**Step 5 :** Now, You need to clone the extension repository [Link](https://github.com/idevmou/SimpleSave.git).
+
+> **Optional :** You can also download as `.zip` file and extract it.
+![Extract](./images/img3.png)
+
+**Step 6 :** After cloning or extracting go to **Step 4** then click on `Load upacked` and locate the cloned or extracted folder of ```SimpleSave``` and click the option `Select folder` in file explorer window.
+
+## Finally, You had successfully installed `SimpleSave` extension in your browser
+![finalimg](./images/img4.png)
+
+## Guides for use
+
+* Click on `Add Note` button to create default note.
+![default](./images/img5.png)
+* You can able to `edit` and `save` just by **one click** it once
+![editsave](./images/img6.png)
+* **Double click** to `delete`
+![delete](./images/img7.png)
+
+## Supported Browsers
+
+| Browsers | Support |
+| -------- | ------- |
+| ![Chrome](./images/chrome.png) | Yes |
+| ![Edge](./images/edge.png) | Yes |
+| ![Firefox](./images/firefox.png) | Yes |
+| ![Opera](./images/opera.png) | Yes |
+| ![safari](./images/safari.png) | NA |
